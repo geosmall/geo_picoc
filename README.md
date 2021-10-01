@@ -1,4 +1,4 @@
-picoc - from: https://gitlab.com/zsaleeba/picoc
+picoc - Copied from: https://gitlab.com/zsaleeba/picoc
 -----
 
 PicoC is a very small C interpreter for scripting. It was originally written 
